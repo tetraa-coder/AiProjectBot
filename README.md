@@ -16,7 +16,7 @@ Clonez ce dépôt sur votre machine locale :
 
 ##bash
 ##Copy code
-git clone https://github.com/votre-utilisateur/votre-depot.git
+git clone https://github.com/votre-utilisateur/le_lien_de_notre_depot
 
 ##Téléchargez les dépendances Python en exécutant la commande suivante dans le terminal :
 ##bash
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 #Configuration
 
-Ouvrez le fichier boot.py et remplacez "YOUR_TOKEN_HERE" par le token de votre bot Discord.
+Ouvrez le fichier boot.py et remplacez "YOUR_TOKEN_HERE" par le token de votre bot Discord. (on a tout mis dans le meme fichier , pas besoin de faire l'appel au fichier qui se trouve dans le folder private)
 
 Ouvrez le fichier mots_cles.py et ajoutez/modifiez les mots-clés que vous souhaitez utiliser pour détecter les sujets spécifiques dans les messages des utilisateurs.
 
