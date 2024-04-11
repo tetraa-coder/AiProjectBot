@@ -1,0 +1,9 @@
+lang_fr:
+  messages:
+    welcome: "Bienvenue sur le serveur Discord de notre projet de gestion des conflits et d'harcèlement."
+    alerte: "Alerte : Message problématique détecté."
+    erreur: "Une erreur s'est produite. Veuillez réessayer plus tard."
+  commandes:
+    help: "Affiche l'aide du bot."
+    send_alert: "Envoyer une alerte dans le salon spécifié."
+    other_command: "Description de la commande."
